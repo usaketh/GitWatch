@@ -1,8 +1,5 @@
-# React + Vite
+# GitWatch - A github profile viewer that shows github profile data in a card format.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Question.5 : Using  https://api.github.com/users/${username} API render your GitHub information as your GitHub info Card.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot 2024-01-20 171633](https://github.com/usaketh/GitWatch/assets/64151405/aa447fd8-fd3f-47b4-a4d4-efe6cd2d513a)
